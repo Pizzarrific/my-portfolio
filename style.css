@@ -1,0 +1,149 @@
+.nav-titles{
+    font-family:"Nunito",sans-serif;
+    font-size: 20px;
+    font-weight:600;
+    margin-top:20px;
+}
+.hero{
+    height: 80vh;
+}
+.flex{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.summary{
+    margin-left: 20px;
+    height: 80vh;
+    flex-direction: column;   
+}
+.summary>p{
+    font-family:"Bitter",sans-serif;
+    margin-top: 1em;
+    font-size: 20px;
+    width: 450px;
+}
+#title{
+    margin-top: 2em;
+    text-align: center;
+}
+.about{
+    margin-top: 5em;
+    background-color: #b2bec39f;
+    margin-bottom: 5em;
+    padding-bottom: 5em;
+    background: cover;
+}
+.content{
+    text-align: center;
+    font-family:"Cabin",sans-serif;
+    color: #f93301;
+    font-size: 20px;
+}
+#skills-row-1{
+    margin-top: 0;
+}
+.skills-card{
+    margin-bottom: 30px;
+}
+.html{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.python{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.css{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.javascript{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.java{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.django{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.linkedin{
+    left: 5em;
+    width: 35%;
+    height: 55%;
+    margin-left: 5em;
+}
+.github{
+    left: 5em;
+    width: 35%;
+    height: 55%;
+    margin-left: 5em;
+}
+.mail{
+        left: 5em;
+        width: 35%;
+        height: 55%;
+        margin-left: 5em;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+}
+.copy{
+    margin-top: 45px;
+    color: #ffff;
+    font-family: 'Cabin',sans-serif;
+}
+
+.mail{
+    display: inline;
+}
+.linkedin{
+    display: inline;
+    margin-left: 5em;
+}
+.instagram{
+    display: inline;
+    margin-left: 5em;
+}
+.github{
+    display: inline;
+    margin-left: 5em;
+}
+.list-unstyled li>i{
+    cursor: pointer;
+}
+.contacts{
+    margin-top: 30px;
+}
+.profile-photo{
+    display: flex;
+    width: 65%;
+    height: 55%;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.profile>img:hover{
+    width: 68%;
+    height: 58%;
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 50px rgba(255, 0, 0, 0.411);
+    cursor: pointer;
+}
+
